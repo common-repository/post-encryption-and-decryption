@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ept\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-18 17:43+0800\n"
+"PO-Revision-Date: 2010-05-18 17:46+0800\n"
+"Last-Translator: lenglong <ourwindow@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: post-batch-encryption.php:18
+msgid "Update Failed! Not select any post status."
+msgstr "更改失败！没有选择任何文章类型。"
+
+#: post-batch-encryption.php:24
+msgid "Update Failed! Has not filled in the password, or password length greater than 20."
+msgstr "更改失败！没有填写密码或者密码长度大于20。"
+
+#: post-batch-encryption.php:54
+msgid "Update successfully!"
+msgstr "更新成功！"
+
+#: post-batch-encryption.php:67
+msgid "Update Failed! Has not chosen category or tag."
+msgstr "更新失败！没有选择分类或标签"
+
+#: post-batch-encryption.php:76
+msgid "Encryption And Decryption Options"
+msgstr "文章批量加密和解密选项"
+
+#: post-batch-encryption.php:77
+msgid "Posts Batch Encryption And Decryption "
+msgstr "文章批量加密和解密"
+
+#: post-batch-encryption.php:77
+msgid "helps you quickly encrypt or decrypt all posts of specific category or tag"
+msgstr "帮助你快速加密解密某个分类或某个标签下的所有的文章"
+
+#: post-batch-encryption.php:90
+msgid "Encryption Or Decryption"
+msgstr "加密还是解密"
+
+#: post-batch-encryption.php:92
+msgid "Encryption"
+msgstr "加密"
+
+#: post-batch-encryption.php:93
+msgid "Decryption"
+msgstr "解密"
+
+#: post-batch-encryption.php:97
+msgid "encrypt or decrypt specific:"
+msgstr "加密或解密特定的"
+
+#: post-batch-encryption.php:99
+msgid "Noting"
+msgstr "未选"
+
+#: post-batch-encryption.php:100
+msgid "Tag"
+msgstr "标签"
+
+#: post-batch-encryption.php:101
+msgid "Category"
+msgstr "分类"
+
+#: post-batch-encryption.php:105
+msgid "Tag to encrypt or decrypt:"
+msgstr "要解密或加密的标签:"
+
+#: post-batch-encryption.php:110
+msgid "No tag"
+msgstr "没有标签"
+
+#: post-batch-encryption.php:115
+msgid "Category to encrypt or decrypt:"
+msgstr "要解密或加密的分类:"
+
+#: post-batch-encryption.php:119
+msgid "Post status:"
+msgstr "文章类型"
+
+#: post-batch-encryption.php:122
+msgid "Published"
+msgstr "公开的文章"
+
+#: post-batch-encryption.php:125
+msgid "Privately"
+msgstr "私有文章"
+
+#: post-batch-encryption.php:128
+msgid "Draft"
+msgstr "草稿"
+
+#: post-batch-encryption.php:131
+msgid "Trash"
+msgstr "回收站中的文章"
+
+#: post-batch-encryption.php:134
+msgid "Inherit"
+msgstr "修订版"
+
+#: post-batch-encryption.php:137
+msgid "Set the Password"
+msgstr "设置密码"
+
+#: post-batch-encryption.php:142
+msgid "Update Options &raquo;"
+msgstr "更新"
+
